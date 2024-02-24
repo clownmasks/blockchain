@@ -42,3 +42,9 @@ license
 ---
 
 ISC
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xd23751F5ED8Dec301737b8bb63001cFd59463aF1'
+quorum: 1
